@@ -1,0 +1,17 @@
+
++-------------------------------------------------------------------------------------------+
+; Power Analyzer Summary                                                                    ;
++----------------------------------------+--------------------------------------------------+
+; Power Analyzer Status                  ; Successful - Wed Jul 12 22:00:39 2023            ;
+; Quartus Prime Version                  ; 18.1.0 Build 625 09/12/2018 SJ Lite Edition      ;
+; Revision Name                          ; atpfinalcode                                     ;
+; Top-level Entity Name                  ; atpfinalcode                                     ;
+; Family                                 ; Cyclone V                                        ;
+; Device                                 ; 5CSEMA5F31C6                                     ;
+; Power Models                           ; Final                                            ;
+; Total Thermal Power Dissipation        ; 423.85 mW                                        ;
+; Core Dynamic Thermal Power Dissipation ; 0.23 mW                                          ;
+; Core Static Thermal Power Dissipation  ; 411.25 mW                                        ;
+; I/O Thermal Power Dissipation          ; 12.37 mW                                         ;
+; Power Estimation Confidence            ; Low: user provided insufficient toggle rate data ;
++----------------------------------------+--------------------------------------------------+
