@@ -1,20 +1,20 @@
 Week 1:
-                     • We created a block diagram of the given design 
-                     • We Identified proper inputs and outputs 
-                     • We created a FSM ( Mealy ) of the given design 
-                     • We created valid test cases [Test Plan]
+                     • I created a block diagram of the given design. 
+                     • I Identified proper inputs and outputs. 
+                     • I created a FSM ( Mealy ) of the given design. 
+                     • I created valid test cases [Test Plan].
 Week 2:
-                     • We developed the Verilog code of the given FSM
-                     • We developed the test bench and verified its functionality 
-                     • Then we analysed the code coverage reports
+                     • I developed the Verilog code of the given FSM.
+                     • I developed the test bench and verified its functionality. 
+                     • Then I analysed the code coverage reports.
 Week 3:
-		                 • We have synthesized the developed HDL code
- 		                 • Then we analysed the area and power report 
-                     • Then we have applied proper timing constraints and analysed the timing reports to achieve proper timing closure
+		     • I have synthesized the developed HDL code.
+ 		    ]• Then I analysed the area and power report. 
+                     • Then I have applied proper timing constraints and analysed the timing reports to achieve proper timing closure.
 Week 4:
-                     • In week 4 we have done the implementation part , we have already created a sram object file (Sof) . 
-             During the implementation part we have uploaded the Sof file into the target device.
-		                 • The target device is CYCLONE 5 - 5CSEMA5F31C6,
-             we implemented it virtually with the help of the Labsland and we got the outputs for the respective inputs in the target device 
+                     • In week 4 I have done the implementation part , I have already created a sram object file (Sof) 
+            	        During the implementation part I have uploaded the Sof file into the target device.
+		     • The target device is CYCLONE 5 - 5CSEMA5F31C6,
+                        I implemented it virtually with the help of the Labsland and I got the outputs for the respective inputs in the target device. 
 
 
