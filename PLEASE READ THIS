@@ -1,0 +1,32 @@
+In this message I am going to describe the way I submitted.
+I recommend you to go through this repository in this order.
+
+1) MODELS: 
+          * In this folder i have included a word document which have the block diagram,
+            Flow diagram, state diagram i have created to complete this project.
+
+          * And I also included the verilog code also.
+
+2) DATA: 
+          In this folder i have included the output data of 
+                 * Fitter / resource usage summary 
+                 * timing analysis / summary, parallel compilation, multicorner time analysis summary, input transition time report 
+                 * Power analysis / summary, parallel compilation
+                 * compile design data / compilation log message
+                 * Other output data 
+
+3) CODE:
+          This folder contains the verilog code, test bench, sof file.
+
+4) Data:
+          In this folder i included 
+          * A compressed word document which have my report.
+          * Output diagrams like 
+                        I)  simulation output diagram,
+                        II) State machine output diagram,
+                        III) RTL viewer,
+                        IV)  Technology map viewer (post mapping)
+                         V)  Technology map viewer (post fitting)
+
+5) Demo videos: 
+                    Since the memory of the videos is large i given links for those videos
